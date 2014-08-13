@@ -8,9 +8,9 @@
 
 1. CLICK PeerAssessmentProject_1.htm
 2. PREPEND  http://htmlpreview.github.io/?
-   to "https://github.com/JeanReneN/RepData_PeerAssessment1/blob/master/PeerAssessmentProject_1.html" 
+   to "https://github.com/JeanReneN/RepData_PeerAssessment1" 
 **THE RESULT IS THE FOLLOWING URL. THE URL WILL EXACTLY DISPLAY THE HTML FILE PRODUCED BY R Markdown Knit HTML. COPY AND PASTE**
-  http://htmlpreview.github.io/?https://github.com/JeanReneN/RepData_PeerAssessment1/blob/master/PeerAssessmentProject_1.html
+  http://htmlpreview.github.io/?https://github.com/JeanReneN/RepData_PeerAssessment1
 3. CLICK ENTER
 
 ==============================================================================================================================
