@@ -1,8 +1,9 @@
 ---
-Title: "Peer Assessment Project 1"
-Author: "Jean Rene Ndeki"
-Date: "Monday, August 11, 2014"
+Author: Jean Rene Ndeki
+Date: Monday, August 11, 2014
 Output: html_document
+Title: Peer Assessment Project 1
+output: html_document
 ---
 #Peer Assessment Project 1#
 ######By Jean Rene Ndeki######
@@ -77,7 +78,7 @@ format(tspt_Ag[max5, "Interval"], format = "%H:%M")
 ```
 
 ####IV. Imputing missing values####
-Note that there are a number of days/intervals where there are missing values (coded as NA). The presence of missing days may introduce bias into some calculations or summaries of the data
+Note: There is a number of days/intervals where there are missing values (coded as NA). The presence of missing days may introduce bias into some calculations or summaries of the data
 
 **IV.1. Calculate and report the total number of missing values in the dataset (i.e. the total number of rows with NAs)**
 
@@ -101,7 +102,7 @@ tsp_imp_Ag <-  aggregate(act_imp[, 'steps'], by=list(act_imp$date), sum, na.rm =
 colnames(tsp_imp_Ag) <- c('Date', 'Steps')
 ```
 
-**IV. Histogram, Mean, Median, Comparison, and Impact**
+**IV.4. Histogram, Mean, Median, Comparison, and Impact**
 
 **IV.4.1. Make a histogram of the total number of steps taken each day.**
 
@@ -122,7 +123,7 @@ median(tsp_imp)
 
 **IV.4.3. Do these values differ from the estimates from the first part of the assignment?** 
 
-*Yes. The values differ from the estimates from the first part of the assignment. However, notice that the mean and median of the imputed data set are equal.*
+*Yes. The values differ from the first part estimates. However, notice that the mean and median of the imputed data set are equal.*
 
 **IV.4.4. What is the impact of imputing missing data on the estimates of the total daily number of steps?**
 
