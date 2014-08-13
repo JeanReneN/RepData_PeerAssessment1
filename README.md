@@ -27,11 +27,12 @@ Plot 4. Panel Weekday and Weekend Step Average Number - Imputed
 ######IMPORTANT INSTRUCTIONS TO ACCURATELY VIEW PeerAssessmentProject_1.html AS RENDERD BY R MARKDOWN KNIT HTML######
 ----------------------------------------------------------------------------------------------------------
 
-1. PREPEND to "https://github.com/JeanReneN/RepData_PeerAssessment1/blob/master/PeerAssessmentProject_1.html" 
+1. PREPEND  http://htmlpreview.github.io/?
 
-  http://htmlpreview.github.io/?
+   to "https://github.com/JeanReneN/RepData_PeerAssessment1/blob/master/PeerAssessmentProject_1.html" 
+
   
-THE FOLLOWING URL WILL DISPLAAY EXACTLY THE HTML FILE PRODUCED BY R Markdown Knit HTML. cOPY AND PASTE
+THE RESULT IS THE FOLLOWING URL. THE URL WILL EXACTLY DISPLAY THE HTML FILE PRODUCED BY R Markdown Knit HTML. cOPY AND PASTE
   
   http://htmlpreview.github.io/?https://github.com/JeanReneN/RepData_PeerAssessment1/blob/master/PeerAssessmentProject_1.html
   
