@@ -6,11 +6,12 @@
 ######INSTRUCTIONS TO ACCURATELY VIEW PeerAssessmentProject_1.html AS RENDERD BY R MARKDOWN KNIT HTML######
 ==============================================================================================================================
 
-1. CLICK PeerAssessmentProject_1.htm
+1. CLICK PeerAssessmentProject_1.htm. This url becomes visible: https://github.com/JeanReneN/RepData_PeerAssessment1/blob/master/PeerAssessmentProject_1.html
 2. PREPEND  http://htmlpreview.github.io/?
-   to "https://github.com/JeanReneN/RepData_PeerAssessment1/blob/master/PeerAssessmentProject_1.html" 
-**THE RESULT IS THE FOLLOWING URL. THE URL WILL EXACTLY DISPLAY THE HTML FILE PRODUCED BY R Markdown Knit HTML. COPY AND PASTE**
+   to https://github.com/JeanReneN/RepData_PeerAssessment1/blob/master/PeerAssessmentProject_1.html 
+**THE RESULT IS THE FOLLOWING URL. THE URL WILL EXACTLY DISPLAY THE HTML FILE PRODUCED BY R Markdown Knit HTML. COPY http://htmlpreview.github.io/? AND PASTE before https://github.com/JeanReneN/RepData_PeerAssessment1/blob/master/PeerAssessmentProject_1 to get the url below.**
   http://htmlpreview.github.io/?https://github.com/JeanReneN/RepData_PeerAssessment1/blob/master/PeerAssessmentProject_1.html
+2. PLACE YOUR CURSOR AT THE END OF THE URL, AFTER .html
 3. CLICK ENTER
 
 ==============================================================================================================================
